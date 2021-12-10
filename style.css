@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+#score{
+    font-size: 30px;
+    float: left;
+}
+#timer{
+    font-size: 30px;
+    float: right;
+}
